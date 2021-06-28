@@ -39,3 +39,6 @@ class TestCalcs:
         return num > 0
 ```
 - Finally in the terminal type `python -m pytest` and run. Check if all tests have passed
+
+Diagram TDD
+![img.png](img.png)
