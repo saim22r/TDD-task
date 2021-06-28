@@ -3,7 +3,7 @@
 import unittest
 import pytest
 
-from Test_TDD import TestCalcs
+from Test_TDD2 import TestCalcs
 
 class TestDivisible(unittest.TestCase):
 
