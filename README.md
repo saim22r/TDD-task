@@ -23,10 +23,10 @@ class TestDivisible(unittest.TestCase):
     nums = TestCalcs()
 
     def test_divisible(self):
-        self.assertEqual(self.nums.divisible(6, 6), 1)
+        self.assertEqual(self.nums.divisible(5, 5), 0)
 
     def test_positive(self):
-        self.assertEqual(self.nums.positive(6), True)
+        self.assertEqual(self.nums.positive(5), True)
 ```
 ### Test_TDD
 ```
