@@ -6,9 +6,9 @@
 - Create a method in the class to pass the test
 
 ### First Steps
-- 1. Create a test file called `TDD_task.py` 
-- 2. Create a file called `Test_TDD.py`
-- 3. Write `pip install pytest` into the terminal and import pytest and unittest
+1. Create a test file called `TDD_task.py` 
+2. Create a file called `Test_TDD.py`
+3. Write `pip install pytest` into the terminal and import pytest and unittest
     
 ## Code
 ### TDD_task
